@@ -6,7 +6,7 @@ Project is described in this [document](https://github.com/djqwert/low-pass-fir-
 
 # Software
 
-ModelSim is the software used to model and simulate the filter, while VIVADO is the analysis software used to synthesis it.
+ModelSim is the software used to model and simulate the filter, while VIVADO is the analysis software used to synthesis it on FPGA.
 MATLAB is used to evaluate ideal performance.
 
 # Contributors
